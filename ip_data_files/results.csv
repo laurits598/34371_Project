@@ -1,0 +1,498 @@
+host,login_prompt_found,login_prompt,error
+172.65.228.92,False,,ERR:[Errno 104] Connection reset by peer
+172.65.246.67,False,,ERR:[Errno 104] Connection reset by peer
+136.110.165.162,False,,
+136.110.206.89,False,,
+172.65.134.5,False,,ERR:[Errno 104] Connection reset by peer
+34.111.199.195,False,,ERR:[Errno 104] Connection reset by peer
+34.36.241.180,False,,ERR:[Errno 104] Connection reset by peer
+34.36.211.28,False,,ERR:[Errno 104] Connection reset by peer
+34.96.111.152,False,,ERR:[Errno 104] Connection reset by peer
+34.49.6.105,False,,ERR:[Errno 104] Connection reset by peer
+34.49.55.47,False,,ERR:[Errno 104] Connection reset by peer
+144.76.118.99,False,,ERR:[Errno 104] Connection reset by peer
+34.43.191.246,False,,
+34.43.72.65,False,,ERR:[Errno 104] Connection reset by peer
+13.38.65.194,True,Login: Password:,
+185.150.27.84,False,,ERR:[Errno 104] Connection reset by peer
+194.108.159.173,False,,
+159.69.28.209,False,,
+62.209.236.205,False,,
+185.25.188.3,False,,
+84.33.95.70,False,,
+2.119.14.113,False,,ERR:[Errno 104] Connection reset by peer
+2.136.105.107,False,,
+212.193.33.137,False,,
+84.243.112.129,False,,ERR:[Errno 104] Connection reset by peer
+85.134.89.219,False,,ERR:[Errno 104] Connection reset by peer
+77.45.21.70,False,,
+159.108.174.246,False,,ERR:[Errno 104] Connection reset by peer
+88.84.203.45,False,,
+91.177.35.69,False,,ERR:[Errno 104] Connection reset by peer
+93.67.147.83,True,ETI/Xip login:,
+88.132.244.94,False,,
+78.37.172.102,True,Login:,
+159.60.234.227,False,,ERR:[Errno 104] Connection reset by peer
+5.185.79.113,True,Login: Password:,
+138.84.40.207,False,,ERR:[Errno 104] Connection reset by peer
+102.165.173.193,False,,ERR:[Errno 104] Connection reset by peer
+106.41.203.254,True,Username:,
+152.112.139.137,False,,ERR:[Errno 104] Connection reset by peer
+102.23.146.238,False,,ERR:[Errno 104] Connection reset by peer
+181.49.191.9,False,,ERR:[Errno 104] Connection reset by peer
+179.154.182.32,False,,ERR:[Errno 104] Connection reset by peer
+200.72.2.177,False,,ERR:[Errno 104] Connection reset by peer
+165.12.201.151,False,,ERR:[Errno 104] Connection reset by peer
+118.165.67.109,False,,ERR:[Errno 104] Connection reset by peer
+119.199.246.75,False,,ERR:[Errno 104] Connection reset by peer
+103.3.12.173,False,,
+177.130.207.244,True,PX3321-T1 login:,
+138.113.202.221,False,,ERR:[Errno 104] Connection reset by peer
+177.194.178.249,False,,ERR:[Errno 104] Connection reset by peer
+119.197.185.43,False,,ERR:[Errno 104] Connection reset by peer
+179.119.7.226,False,,
+39.91.21.112,True,Username:,
+92.203.139.249,False,,
+182.183.130.211,True,username:password:,
+42.84.63.19,True,ralink login:,
+221.207.232.198,True,Username:,
+191.61.113.229,False,,ERR:[Errno 104] Connection reset by peer
+191.61.3.237,False,,ERR:[Errno 104] Connection reset by peer
+191.61.91.89,False,,ERR:[Errno 104] Connection reset by peer
+163.18.67.48,False,,ERR:[Errno 104] Connection reset by peer
+164.138.118.202,False,,
+13.248.159.148,False,,TimeoutError
+5.190.33.38,False,,TimeoutError
+134.220.228.78,False,,TimeoutError
+75.2.54.141,False,,TimeoutError
+134.28.219.11,False,,TimeoutError
+177.87.110.227,False,,TimeoutError
+41.225.196.93,False,,TimeoutError
+57.129.70.199,False,,TimeoutError
+134.220.223.140,False,,TimeoutError
+198.99.68.119,False,,TimeoutError
+147.127.125.244,False,,TimeoutError
+213.243.15.16,False,,TimeoutError
+5.253.143.198,False,,TimeoutError
+137.132.136.101,False,,TimeoutError
+64.234.40.65,False,,TimeoutError
+200.91.131.121,False,,TimeoutError
+103.44.238.103,False,,TimeoutError
+102.71.9.82,False,,TimeoutError
+166.104.30.213,False,,TimeoutError
+192.186.11.168,False,,TimeoutError
+219.248.78.149,False,,TimeoutError
+47.88.144.249,False,,TimeoutError
+172.65.2.250,False,,ERR:[Errno 104] Connection reset by peer
+136.110.216.207,False,,
+172.65.191.125,False,,ERR:[Errno 104] Connection reset by peer
+172.65.92.67,False,,ERR:[Errno 104] Connection reset by peer
+172.65.74.104,False,,ERR:[Errno 104] Connection reset by peer
+172.65.38.202,False,,ERR:[Errno 104] Connection reset by peer
+150.40.117.2,False,,ERR:[Errno 104] Connection reset by peer
+192.145.49.22,False,,ERR:[Errno 104] Connection reset by peer
+193.77.155.15,False,,
+194.116.11.49,False,,ERR:[Errno 104] Connection reset by peer
+2.248.82.42,False,,ERR:[Errno 104] Connection reset by peer
+178.205.78.218,True,Username:,
+129.85.5.211,False,,ERR:[Errno 104] Connection reset by peer
+129.85.183.100,False,,ERR:[Errno 104] Connection reset by peer
+129.85.42.16,False,,ERR:[Errno 104] Connection reset by peer
+129.85.238.196,False,,ERR:[Errno 104] Connection reset by peer
+204.16.33.93,False,,ERR:[Errno 104] Connection reset by peer
+129.85.104.246,False,,ERR:[Errno 104] Connection reset by peer
+129.85.236.214,False,,ERR:[Errno 104] Connection reset by peer
+129.85.106.234,False,,ERR:[Errno 104] Connection reset by peer
+129.85.59.86,False,,ERR:[Errno 104] Connection reset by peer
+129.85.6.205,False,,ERR:[Errno 104] Connection reset by peer
+2.135.243.237,True,Username:,
+146.103.66.145,False,,ERR:[Errno 104] Connection reset by peer
+199.115.98.94,False,,ERR:[Errno 104] Connection reset by peer
+153.43.13.109,False,,ERR:[Errno 104] Connection reset by peer
+117.5.231.191,False,,ERR:[Errno 104] Connection reset by peer
+159.60.236.122,False,,ERR:[Errno 104] Connection reset by peer
+212.76.101.134,False,,
+187.164.42.130,False,,
+190.109.214.85,False,,ERR:[Errno 104] Connection reset by peer
+190.83.19.164,False,,
+137.195.232.18,False,,ERR:[Errno 104] Connection reset by peer
+121.200.63.105,False,,ERR:[Errno 104] Connection reset by peer
+138.113.105.232,False,,ERR:[Errno 104] Connection reset by peer
+23.227.33.96,False,,
+179.42.153.160,True,Username:,
+23.227.51.45,False,,ERR:[Errno 104] Connection reset by peer
+34.102.144.73,False,,ERR:[Errno 104] Connection reset by peer
+34.110.168.92,False,,
+110.49.92.146,True,Username:,
+34.111.12.49,False,,
+34.117.119.88,False,,ERR:[Errno 104] Connection reset by peer
+34.117.131.210,False,,
+34.13.119.180,False,,
+34.149.190.118,False,,ERR:[Errno 104] Connection reset by peer
+34.149.45.124,False,,ERR:[Errno 104] Connection reset by peer
+213.151.40.80,False,,
+34.36.72.69,False,,ERR:[Errno 104] Connection reset by peer
+34.49.230.201,False,,ERR:[Errno 104] Connection reset by peer
+213.151.57.86,False,,
+34.43.12.79,False,,
+34.43.188.4,False,,
+34.43.2.51,False,,
+35.186.210.54,False,,ERR:[Errno 104] Connection reset by peer
+35.186.219.206,False,,ERR:[Errno 104] Connection reset by peer
+34.43.4.6,False,,
+35.241.57.169,False,,ERR:[Errno 104] Connection reset by peer
+204.8.220.4,False,,ERR:[Errno 104] Connection reset by peer
+212.164.63.126,True,ipc login:,
+147.46.22.92,False,,ERR:[Errno 104] Connection reset by peer
+197.26.110.146,False,,
+181.104.35.145,False,,ERR:[Errno 104] Connection reset by peer
+153.139.231.137,False,,
+182.169.73.177,False,,
+165.12.159.189,False,,ERR:[Errno 104] Connection reset by peer
+14.46.101.5,False,,
+43.174.193.57,False,,
+190.18.102.153,False,,
+43.174.193.93,False,,
+200.225.227.80,True,Username:,
+216.167.240.250,True,Username:,
+189.124.252.57,True,PX3321-T1 login:,
+183.242.87.218,True,login:,
+54.38.106.153,False,,ERR:[Errno 104] Connection reset by peer
+122.232.88.97,True,Login: User name is incorrect,
+122.239.254.83,True,Ruijie login:,
+207.112.44.115,False,,
+41.221.195.6,False,,ERR:[Errno 104] Connection reset by peer
+179.184.193.47,True,(none) login:,
+74.125.67.71,False,,ERR:[Errno 104] Connection reset by peer
+187.75.87.76,True,(none) login:,
+179.187.216.80,True,(none) login:,
+118.179.232.56,False,,ERR:[Errno 104] Connection reset by peer
+104.167.116.180,True,Login: Password:,
+41.225.173.49,False,,
+41.225.191.208,False,,
+41.225.99.240,False,,
+80.118.95.185,False,,
+27.185.20.247,False,,
+83.48.122.180,False,,
+41.225.147.141,False,,
+85.143.167.157,False,,ERR:[Errno 104] Connection reset by peer
+64.40.248.17,False,,ERR:[Errno 104] Connection reset by peer
+62.193.73.65,True,Username:,
+51.81.182.105,True,login:,
+221.131.144.147,False,,
+14.42.39.176,True,AP340TW login:,
+88.30.5.187,False,,
+88.157.200.252,False,,ERR:[Errno 104] Connection reset by peer
+171.6.99.136,True,Login:,
+93.174.79.16,False,,
+39.46.238.180,True,username:password:,
+84.36.14.66,True,Username:,
+60.178.244.199,True,Login:,
+72.79.176.15,True,Login:,
+220.178.165.3,True,Username:,
+185.190.41.171,True,DD-WRT login:,
+200.211.219.142,False,,
+223.204.93.199,True,Login:,
+210.79.181.109,True,Login: Password:,
+71.167.28.215,True,Login:,
+60.37.171.18,True,VOIPP login:,
+36.3.135.113,True,Password:,
+41.189.87.160,True,login: login:,
+111.202.22.150,True,login:,
+36.88.105.217,False,,ERR:[Errno 104] Connection reset by peer
+184.25.176.76,False,,ERR:[Errno 104] Connection reset by peer
+195.164.211.173,False,,ERR:[Errno 104] Connection reset by peer
+169.155.49.129,False,,ERR:[Errno 104] Connection reset by peer
+191.61.132.167,False,,ERR:[Errno 104] Connection reset by peer
+191.61.177.238,False,,ERR:[Errno 104] Connection reset by peer
+163.18.68.216,False,,ERR:[Errno 104] Connection reset by peer
+134.28.87.13,False,,TimeoutError
+152.4.168.249,False,,TimeoutError
+134.28.36.215,False,,TimeoutError
+166.104.90.11,False,,TimeoutError
+166.104.222.118,False,,TimeoutError
+134.28.114.128,False,,TimeoutError
+109.235.166.189,False,,TimeoutError
+134.28.245.47,False,,TimeoutError
+134.28.20.69,False,,TimeoutError
+134.28.69.132,False,,TimeoutError
+134.28.245.217,False,,TimeoutError
+152.4.163.238,False,,TimeoutError
+166.104.28.48,False,,TimeoutError
+185.150.51.254,False,,TimeoutError
+134.220.191.190,False,,TimeoutError
+134.220.105.36,False,,TimeoutError
+134.220.110.72,False,,TimeoutError
+134.220.181.167,False,,TimeoutError
+134.220.35.86,False,,TimeoutError
+147.127.158.12,False,,TimeoutError
+147.127.40.57,False,,TimeoutError
+185.110.70.138,False,,TimeoutError
+131.118.75.38,False,,TimeoutError
+129.62.9.126,False,,TimeoutError
+178.251.29.203,False,,TimeoutError
+137.132.86.241,False,,TimeoutError
+137.132.171.127,False,,TimeoutError
+185.238.183.191,False,,TimeoutError
+103.87.9.176,False,,TimeoutError
+145.30.239.10,False,,TimeoutError
+154.39.70.251,False,,TimeoutError
+120.119.39.197,False,,TimeoutError
+120.119.102.199,False,,TimeoutError
+102.71.142.31,False,,TimeoutError
+102.71.205.220,False,,TimeoutError
+102.71.149.171,False,,TimeoutError
+102.71.144.149,False,,TimeoutError
+102.71.166.156,False,,TimeoutError
+102.71.248.215,False,,TimeoutError
+102.71.187.195,False,,TimeoutError
+182.242.101.13,False,,TimeoutError
+103.30.4.120,False,,TimeoutError
+137.132.174.234,False,,TimeoutError
+212.31.22.66,False,,TimeoutError
+140.110.202.218,False,,TimeoutError
+205.186.118.139,False,,TimeoutError
+205.186.92.199,False,,TimeoutError
+213.243.37.58,False,,TimeoutError
+211.152.63.180,False,,TimeoutError
+23.115.120.49,False,,TimeoutError
+62.245.218.134,False,,TimeoutError
+51.52.254.198,False,,TimeoutError
+222.239.101.250,False,,TimeoutError
+41.168.8.45,False,,TimeoutError
+38.249.63.119,False,,TimeoutError
+38.249.84.54,False,,TimeoutError
+38.249.243.141,False,,TimeoutError
+77.240.60.195,False,,TimeoutError
+85.158.96.222,False,,TimeoutError
+91.208.37.7,False,,TimeoutError
+89.190.126.11,False,,TimeoutError
+75.166.87.184,True,BusyBox on (none) login:,
+196.30.2.157,False,,TimeoutError
+166.117.200.27,False,,TimeoutError
+222.212.168.204,False,,TimeoutError
+199.21.140.207,False,,TimeoutError
+61.75.77.254,False,,ERR:[Errno 104] Connection reset by peer
+160.202.245.209,False,,TimeoutError
+91.238.28.48,False,,ERR:[Errno 104] Connection reset by peer
+50.126.95.25,False,,
+165.12.15.185,False,,ERR:[Errno 104] Connection reset by peer
+1.198.50.226,True,Login:,
+195.181.84.207,False,,TimeoutError
+172.65.139.253,False,,ERR:[Errno 104] Connection reset by peer
+172.65.249.10,False,,ERR:[Errno 104] Connection reset by peer
+34.128.145.55,False,,
+34.98.124.3,False,,ERR:[Errno 104] Connection reset by peer
+35.241.26.213,False,,ERR:[Errno 104] Connection reset by peer
+34.43.83.43,False,,
+2.136.49.151,False,,
+176.121.197.110,False,,
+41.225.116.180,False,,
+206.196.123.94,False,,
+174.35.86.69,False,,ERR:[Errno 104] Connection reset by peer
+116.12.70.1,False,,ERR:[Errno 104] Connection reset by peer
+180.211.135.25,True,Username:,
+147.46.248.8,False,,ERR:[Errno 104] Connection reset by peer
+112.4.239.122,True,Username:,
+61.80.166.6,True,TGTDVR login:,
+83.66.12.244,False,,TimeoutError
+166.104.29.164,False,,TimeoutError
+166.104.119.170,False,,TimeoutError
+172.65.213.9,False,,ERR:[Errno 104] Connection reset by peer
+130.211.10.212,False,,
+104.133.128.140,False,,
+172.65.224.237,False,,ERR:[Errno 104] Connection reset by peer
+172.65.101.167,False,,ERR:[Errno 104] Connection reset by peer
+169.224.143.99,False,,
+142.147.14.5,False,,ERR:[Errno 104] Connection reset by peer
+172.65.8.211,False,,ERR:[Errno 104] Connection reset by peer
+206.220.177.209,False,,ERR:[Errno 104] Connection reset by peer
+172.253.28.135,False,,
+208.112.196.232,False,,ERR:[Errno 104] Connection reset by peer
+146.70.61.30,False,,
+213.188.210.146,False,,ERR:[Errno 104] Connection reset by peer
+23.227.57.98,False,,ERR:[Errno 104] Connection reset by peer
+34.102.196.223,False,,ERR:[Errno 104] Connection reset by peer
+188.143.96.92,False,,ERR:[Errno 104] Connection reset by peer
+129.153.237.3,False,,ERR:[Errno 113] No route to host
+34.107.238.25,False,,
+34.111.243.182,False,,
+34.111.93.173,False,,ERR:[Errno 104] Connection reset by peer
+34.120.113.10,False,,
+34.120.228.63,False,,ERR:[Errno 104] Connection reset by peer
+194.153.89.58,False,,ERR:[Errno 104] Connection reset by peer
+137.66.2.98,False,,ERR:[Errno 104] Connection reset by peer
+137.66.4.195,False,,ERR:[Errno 104] Connection reset by peer
+34.160.27.58,False,,ERR:[Errno 104] Connection reset by peer
+213.33.141.17,True,Username:,
+34.49.102.79,False,,ERR:[Errno 104] Connection reset by peer
+34.54.219.124,False,,ERR:[Errno 104] Connection reset by peer
+34.54.227.148,False,,
+34.43.222.148,False,,ERR:[Errno 104] Connection reset by peer
+195.120.82.41,False,,ERR:[Errno 104] Connection reset by peer
+34.43.233.82,False,,ERR:[Errno 104] Connection reset by peer
+34.43.40.217,False,,
+35.190.65.131,False,,ERR:[Errno 104] Connection reset by peer
+34.8.148.151,False,,ERR:[Errno 104] Connection reset by peer
+34.8.236.109,False,,ERR:[Errno 104] Connection reset by peer
+34.43.6.210,False,,ERR:[Errno 104] Connection reset by peer
+35.244.161.66,False,,
+213.238.184.120,False,,ERR:[Errno 104] Connection reset by peer
+129.85.110.159,False,,ERR:[Errno 104] Connection reset by peer
+129.85.111.87,False,,ERR:[Errno 104] Connection reset by peer
+212.76.124.97,False,,
+129.85.171.93,False,,ERR:[Errno 104] Connection reset by peer
+212.76.123.13,False,,
+185.131.62.24,False,,ERR:[Errno 104] Connection reset by peer
+43.159.113.105,False,,
+197.15.84.145,False,,
+211.72.23.94,False,,ConnectionRefusedError
+46.28.176.230,False,,ERR:[Errno 104] Connection reset by peer
+38.104.43.131,False,,
+108.34.48.12,True,Login:,
+190.250.247.122,True,Login:,
+139.99.118.75,False,,
+190.99.182.199,True,Login:,
+115.160.142.33,False,,ERR:[Errno 104] Connection reset by peer
+103.39.221.182,False,,ERR:[Errno 104] Connection reset by peer
+201.116.204.145,True,User:,
+182.23.43.33,True,Username:,
+195.208.167.6,False,,
+122.224.124.210,True,Username:,
+74.119.132.104,False,,ERR:[Errno 104] Connection reset by peer
+186.223.196.199,False,,ERR:[Errno 104] Connection reset by peer
+115.186.138.195,True,DD-WRT login:,
+41.225.210.175,False,,
+66.241.124.65,False,,
+222.85.161.211,True,Username:,
+50.116.170.250,False,,ERR:[Errno 104] Connection reset by peer
+219.153.100.253,False,,
+153.228.166.227,False,,
+36.66.196.46,False,,ERR:[Errno 104] Connection reset by peer
+218.21.35.70,False,,
+192.186.32.113,False,,ERR:[Errno 104] Connection reset by peer
+160.86.81.129,False,,ERR:[Errno 104] Connection reset by peer
+201.75.122.249,False,,ERR:[Errno 104] Connection reset by peer
+38.39.108.219,False,,
+177.89.162.238,True,PX3321-T1 login:,
+50.200.203.254,True,User:,
+181.73.46.79,False,,ERR:[Errno 104] Connection reset by peer
+222.223.115.177,True,Username:,
+190.144.69.21,True,Username:,
+177.158.141.184,True,(none) login:,
+179.214.177.196,False,,ERR:[Errno 104] Connection reset by peer
+38.249.69.21,False,,ERR:[Errno 104] Connection reset by peer
+95.67.199.83,False,,
+79.172.245.178,True,Login:,
+95.86.107.228,False,,
+39.55.157.34,True,username:password:,
+80.79.155.174,True,Password:,
+179.165.46.170,True,(none) login:,
+95.86.94.146,False,,
+200.150.180.202,True,(none) login:,
+179.182.216.200,True,(none) login:,
+92.126.197.222,False,,
+201.1.102.223,True,(none) login:,
+95.86.69.103,False,,
+74.244.94.231,False,,ERR:[Errno 104] Connection reset by peer
+58.86.9.218,False,,ERR:[Errno 104] Connection reset by peer
+58.146.4.1,False,,ERR:[Errno 104] Connection reset by peer
+125.194.165.167,True,Username:,
+200.170.134.66,True,login:,
+183.247.182.101,True,login:,
+92.202.219.1,False,,
+59.124.28.90,True,User:,
+5.62.75.148,False,,ERR:[Errno 104] Connection reset by peer
+61.146.132.114,True,Login:,
+190.112.191.42,True,login:,
+166.250.239.109,True,Username:,
+189.125.154.202,True,login: login:,
+83.98.243.106,False,,ERR:[Errno 104] Connection reset by peer
+195.164.225.254,False,,ERR:[Errno 104] Connection reset by peer
+176.128.28.63,False,,ERR:[Errno 104] Connection reset by peer
+176.138.217.115,False,,ERR:[Errno 104] Connection reset by peer
+149.248.195.90,False,,ERR:[Errno 104] Connection reset by peer
+118.159.191.77,True,login:,
+191.61.160.104,False,,ERR:[Errno 104] Connection reset by peer
+163.18.115.87,False,,ERR:[Errno 104] Connection reset by peer
+50.31.246.119,False,,ERR:[Errno 104] Connection reset by peer
+137.66.33.169,False,,ERR:[Errno 104] Connection reset by peer
+94.238.153.8,False,,ERR:[Errno 104] Connection reset by peer
+62.233.74.122,False,,ERR:[Errno 104] Connection reset by peer
+13.248.192.200,False,,TimeoutError
+134.28.164.190,False,,TimeoutError
+176.70.136.42,False,,TimeoutError
+134.220.29.121,False,,TimeoutError
+134.220.134.224,False,,TimeoutError
+134.220.239.74,False,,TimeoutError
+134.220.195.162,False,,TimeoutError
+134.220.211.6,False,,TimeoutError
+134.220.60.209,False,,TimeoutError
+149.5.242.5,False,,TimeoutError
+147.127.229.38,False,,TimeoutError
+193.244.242.151,False,,TimeoutError
+194.147.163.86,False,,TimeoutError
+195.148.232.154,False,,TimeoutError
+178.151.245.108,False,,TimeoutError
+149.152.202.248,False,,TimeoutError
+152.4.232.64,False,,TimeoutError
+152.4.219.73,False,,TimeoutError
+152.4.211.97,False,,TimeoutError
+31.7.242.194,False,,TimeoutError
+141.219.252.238,False,,TimeoutError
+184.95.64.136,False,,TimeoutError
+144.225.150.240,False,,TimeoutError
+206.40.104.105,False,,TimeoutError
+110.42.56.252,False,,TimeoutError
+137.132.179.95,False,,TimeoutError
+137.132.103.150,False,,TimeoutError
+137.132.34.161,False,,TimeoutError
+115.124.77.54,False,,TimeoutError
+120.119.72.178,False,,TimeoutError
+102.71.156.220,False,,TimeoutError
+102.71.45.38,False,,TimeoutError
+102.71.241.185,False,,TimeoutError
+102.71.55.241,False,,TimeoutError
+5.183.55.136,False,,TimeoutError
+175.126.163.96,False,,TimeoutError
+192.250.193.155,False,,TimeoutError
+192.186.42.46,False,,TimeoutError
+38.70.223.162,False,,TimeoutError
+121.18.52.110,False,,TimeoutError
+43.226.51.20,False,,TimeoutError
+38.181.161.227,False,,TimeoutError
+38.249.204.95,False,,TimeoutError
+38.181.195.140,False,,TimeoutError
+38.249.34.189,False,,TimeoutError
+80.75.40.93,False,,TimeoutError
+94.199.203.12,False,,TimeoutError
+94.79.87.235,False,,TimeoutError
+59.2.92.105,False,,TimeoutError
+121.138.72.129,False,,TimeoutError
+152.4.168.27,False,,TimeoutError
+60.213.78.29,False,,TimeoutError
+60.212.31.151,False,,TimeoutError
+34.8.207.163,False,,ERR:[Errno 104] Connection reset by peer
+81.43.76.10,False,,
+2.136.87.73,False,,
+197.25.213.222,False,,
+190.144.57.64,False,,ERR:[Errno 104] Connection reset by peer
+86.108.11.224,True,Login: Password:,
+115.68.75.3,False,,ERR:[Errno 104] Connection reset by peer
+114.71.105.60,False,,ERR:[Errno 104] Connection reset by peer
+37.16.19.29,False,,ERR:[Errno 104] Connection reset by peer
+191.61.32.132,False,,ERR:[Errno 104] Connection reset by peer
+188.93.149.189,False,,ERR:[Errno 104] Connection reset by peer
+23.230.11.37,False,,
+141.95.186.166,False,,TimeoutError
+134.220.23.46,False,,TimeoutError
+131.118.94.69,False,,TimeoutError
+184.95.111.31,False,,TimeoutError
+50.114.12.143,False,,TimeoutError
+129.126.162.18,False,,TimeoutError
+130.93.76.225,False,,TimeoutError
+120.119.62.171,False,,TimeoutError
+102.71.39.41,False,,TimeoutError
+166.104.20.187,False,,TimeoutError
+112.111.19.50,False,,TimeoutError
+211.143.79.227,False,,TimeoutError
