@@ -1,38 +1,19 @@
-from helper_tools.ip_gen_tool_v2 import generate_ips 
-from helper_tools.json_extract_to_txt import init_json_to_txt
-from exploit_scan_tools.telnet_scan import main as telnet_main
-import subprocess
+import csv
 
-IP_AMOUNT = 100000
-
-print("Generating IP addresses...")
-generate_ips(IP_AMOUNT)
-
-print("Running masscan...")
-masscan_command = [
-    "sudo",
-    "masscan",
-    "-iL", "ip_data_files/generated_ips.txt",
-    "-p23",
-    "--rate", "10000",
-    "--wait", "2",
-    "-oJ", "ip_data_files/valid_ips.json"
-]
-
-subprocess.run(masscan_command, check=True)
-
-print("Extracting valid IPs to text file...")
-init_json_to_txt()
-
-print("Running Telnet login prompt scan...")
-path = "ip_data_files/target_ips.txt"
-telnet_main(path)
+infile = "ip_data_files/results.csv"
+output_file = "ip_data_files/filtered_results.csv"
 
 
-
-
-
-
-
-
-
+with open(infile, newline="", encoding="utf-8") as infile, \
+    open(output_file, "w", newline="", encoding="utf-8") as outfile:
+    reader = csv.reader(infile)
+    writer = csv.writer(outfile)
+    # Read and write header
+    header = next(reader)
+    writer.writerow(header)
+    # Filter rows where login_prompt_found is True
+    for row in reader:
+        if len(row) > 1 and row[1] == "True":
+            writer.writerow(row)
+    
+    print(f"Filtered results written to {output_file}")

@@ -1,11 +1,14 @@
 
+## Cool comomands
+lau@LinuxVM:~$ curl https://ipinfo.io/ip
+138.91.62.132
 
 # Masscan
 
 Use this legendary command   "masscan"   to verify if the IP's are legit
 
 Example on port 23 and 3306:
-sudo masscan -iL generated_ips.txt -p23,3306 --rate 10000 -oX results.xml
+sudo masscan -iL generated_ips.txt -p23 --rate 10000 -oJ valid_ips.json
 
 Example on port 80:
 sudo masscan -iL generated_ips.txt -p80 --rate 10000 -oX results80.xml
@@ -19,6 +22,30 @@ Masscan supports the following output formats:
 - **Binary** (`-oB`)
 - **List (plain text)** (`-oL`)
 - **Grepable** (`-oG`)
+
+
+# Other interesting ports
+## High-Risk / “Should Almost Never Be Open”
+These are comparable to Telnet in how unsafe they are.
+
+### 21 – FTP
+Credentials sent in cleartext
+Often anonymous or weak credentials
+
+### 513 / 514 – rlogin / rsh
+Legacy remote shells with trust-based auth
+
+### 109 / 110 – POP3
+Cleartext email credentials
+
+### 143 – IMAP
+Same issue unless explicitly using TLS
+
+### 2049 – NFS
+Can expose entire filesystems if misconfigured
+
+### 512 – rexec
+Legacy remote command execution
 
 
 

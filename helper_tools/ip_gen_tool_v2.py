@@ -7,4 +7,4 @@ def generate_ips(num_ips):
             f.write(ip + "\n")
     
 
-#generate_ips(1000000)
+generate_ips(10)
