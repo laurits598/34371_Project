@@ -1,7 +1,7 @@
 
 ## Cool comomands
 lau@LinuxVM:~$ curl https://ipinfo.io/ip
-138.91.62.132
+<IP>
 
 # Masscan
 
